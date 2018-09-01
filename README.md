@@ -1,7 +1,6 @@
 CSCE-608 Database Systems Project 2
 
-Contributors - Aryan Sharma (aryans@tamu.edu)
-			   Sameer Behera (sameer-tamu@tamu.edu)
+Contributors - Aryan Sharma (aryan.iitkgp2011@gmail.com)
 
 Usage:
 
@@ -19,4 +18,3 @@ Caveat:
 These files were executing on XCode g++ -std=c++11
 However we saw that there were problems in Ubutu
 Please mail us in case of any difficulty installing.# tsql
-# tsql
